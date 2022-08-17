@@ -35,7 +35,7 @@ Number of SIMs that will **expire soon ( in 45 days)**.Click to jump to SIM list
 
 ### Usage Overview Chart
 
-In the chart you may view your data/sms usage in different timeframes. The update frequency varies, depending on different MNOs' system synchronization stretegies.
+In the chart you may view your data/sms usage in different timeframes. The update frequency varies, depending on different MNOs' system synchronization strategies.
 
 ::: warning Latency
 More commonly, expect a latency that spans between 10 minutes ~ 24 hours.
